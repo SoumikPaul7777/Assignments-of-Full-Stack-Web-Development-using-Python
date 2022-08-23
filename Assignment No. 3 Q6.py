@@ -1,0 +1,1 @@
+print(f"The hexadecimal equivalent is : {int(input('Enter the number : ')):X}.")

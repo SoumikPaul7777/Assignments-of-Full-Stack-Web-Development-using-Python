@@ -1,0 +1,1 @@
+print(f"The addition is : {bin(int(input('Enter the octal number : '),8)+int(input('Enter the hexadecimal number : '),16))}")

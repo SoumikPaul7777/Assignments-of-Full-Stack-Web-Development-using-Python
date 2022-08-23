@@ -1,0 +1,1 @@
+print(f"The binary eqivalent of : {int(input('Enter the number : ')):b}.")

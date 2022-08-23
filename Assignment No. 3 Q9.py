@@ -1,0 +1,1 @@
+print(f"The binary equivalent will be : {int(input('Enter the octal number : '),8):b}.")

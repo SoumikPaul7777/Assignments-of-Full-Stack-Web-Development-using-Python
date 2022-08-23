@@ -1,0 +1,1 @@
+print("The UNICODE code is : {}".format(ord(input("Enter the character : "))))

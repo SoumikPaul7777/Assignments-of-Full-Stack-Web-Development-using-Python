@@ -1,0 +1,1 @@
+print(f"The character is : {chr(int(input('Enter the number : ')))}.")

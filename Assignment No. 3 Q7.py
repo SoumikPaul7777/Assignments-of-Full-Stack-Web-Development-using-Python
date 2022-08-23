@@ -1,0 +1,1 @@
+print(f"The decimal equivalent is : {int(input('Enter the number : '),2)}")

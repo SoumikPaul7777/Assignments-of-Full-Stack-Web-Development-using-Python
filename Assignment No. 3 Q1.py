@@ -1,0 +1,1 @@
+print(f"The type is : {type(str(int(input('Enter a number : '))))}")
