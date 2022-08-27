@@ -1,0 +1,1 @@
+print(f"Square is : {eval(input('Enter the number : '))**2:.3f}")

@@ -1,0 +1,1 @@
+print(f"Addition is : {eval(input('Enter the 1st number : '))+eval(input('Enter the 2nd number : '))}")

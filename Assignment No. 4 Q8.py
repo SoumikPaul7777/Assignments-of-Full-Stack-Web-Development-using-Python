@@ -1,0 +1,1 @@
+print(f"Simple interest is : {(eval(input('Enter the principle amount : '))*eval(input('Enter the rate : '))*eval(input('Enter the time : ')))/100.00}")

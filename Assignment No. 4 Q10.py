@@ -1,0 +1,1 @@
+print(f"Area of triangle is : {eval(input('Enter the length : '))*eval(input('Enter the breadth : '))}")

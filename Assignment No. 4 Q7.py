@@ -1,0 +1,1 @@
+print(f"Average is : {sum([eval(input(f'Enter the number {i+1} is : ')) for i in range(3)])/3.0}")

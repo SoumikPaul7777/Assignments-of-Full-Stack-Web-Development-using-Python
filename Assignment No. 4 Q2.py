@@ -1,0 +1,1 @@
+print(f"Entered number is : {int(input('Enter the number : '))}")
