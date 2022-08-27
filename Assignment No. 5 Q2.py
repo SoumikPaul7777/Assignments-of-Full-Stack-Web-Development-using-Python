@@ -1,0 +1,1 @@
+print(f"Last digit will be : {eval(input('Enter the number : '))%10}")

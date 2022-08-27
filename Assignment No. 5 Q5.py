@@ -1,0 +1,1 @@
+print(f"First digit will be : {int(input('Enter the three digit number : '))//100}")

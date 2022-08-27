@@ -1,0 +1,1 @@
+print(f"Edited number is : {int(input('Enter the number : '))//10}")

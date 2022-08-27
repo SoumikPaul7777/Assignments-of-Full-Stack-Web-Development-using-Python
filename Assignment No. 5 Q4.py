@@ -1,0 +1,1 @@
+print(f"Result is : {eval(input('Enter the base : '))**eval(input('Enter the power : '))}")

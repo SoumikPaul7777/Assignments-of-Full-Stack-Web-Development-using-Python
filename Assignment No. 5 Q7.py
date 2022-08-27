@@ -1,0 +1,1 @@
+print(f"Last digit will be : {int(input('Enter the three digit number : '))%10}")
