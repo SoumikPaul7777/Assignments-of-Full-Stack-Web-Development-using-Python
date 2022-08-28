@@ -1,0 +1,1 @@
+print("It is divisible by 5." if int(input("Enter the number : "))%5==0 else "It is not divisible by 5.")

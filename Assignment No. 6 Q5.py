@@ -1,0 +1,2 @@
+str1,str2=[input(f"Enter the {i+1}st/nd word : ") for i in range(2)]
+print("Dictionary order of words :\n",f"{str1}\n{str2}" if str1<str2 else f"{str2}\n{str1}" if str2<str1 else  f"Both are same words.\nThe word is : {str1}.")

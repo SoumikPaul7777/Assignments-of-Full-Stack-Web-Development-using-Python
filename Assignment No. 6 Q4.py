@@ -1,0 +1,2 @@
+num1,num2=[int(input(f"Enter number {i+1}st/nd : ")) for i in range(2)]
+print(f"{num1} is greater." if num1>num2 else f"{num2} is greater." if num2>num1 else f"Both are same number.\nThe number is : {num1}")
