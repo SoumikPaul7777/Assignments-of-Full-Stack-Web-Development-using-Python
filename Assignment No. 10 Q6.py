@@ -1,0 +1,1 @@
+[print(2*i,end=" ") for i in range(1,int(input("Enter the number : "))+1)]
