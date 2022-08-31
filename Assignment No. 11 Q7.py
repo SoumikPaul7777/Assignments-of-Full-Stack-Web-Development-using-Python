@@ -1,0 +1,1 @@
+print(f"Total number of digit is : {len(input('Enter the number : '))}.")

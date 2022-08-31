@@ -1,0 +1,1 @@
+print(f"Sum of digits are : {sum([int(i) for i in input('Enter the number : ')])}.")
