@@ -1,0 +1,1 @@
+print(f"List is : {[int(i) for i in input('Enter the number : ')]}")

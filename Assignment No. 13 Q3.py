@@ -1,0 +1,1 @@
+print(f"The last item is : {['Java', 'C', 'Python'].pop()}.")

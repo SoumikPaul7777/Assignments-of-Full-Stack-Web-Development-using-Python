@@ -1,0 +1,1 @@
+[print(i) for i in input("Enter the city name separated by : \n").split()]
