@@ -1,0 +1,1 @@
+print(f"Sorted list is : {sorted([int(i) for i in input('Enter the elements (separated by space) are : ').split()])}")

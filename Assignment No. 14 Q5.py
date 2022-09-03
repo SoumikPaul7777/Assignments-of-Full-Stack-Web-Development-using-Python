@@ -1,0 +1,1 @@
+print(f"Greatest number is : {min([int(i) for i in input('Enter the numbers separated by space are : ').split()])}")
