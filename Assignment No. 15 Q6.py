@@ -1,0 +1,1 @@
+print(f"Reverse string is : {'iNeuron'[::-1]}")

@@ -1,0 +1,1 @@
+print("Contains only alphabet." if input("Enter the string : ").isalpha() else "Not contains only alphabet.")

@@ -1,0 +1,1 @@
+print("Contains only number." if input("Enter the string : ").isdigit() else "Not contains only number.")

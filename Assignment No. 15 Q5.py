@@ -1,0 +1,1 @@
+print(f"Total number of characters are : {len('iNeuron')}")

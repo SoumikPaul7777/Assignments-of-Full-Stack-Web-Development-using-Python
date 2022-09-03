@@ -1,0 +1,1 @@
+print("Hello Learners"[2:6])
