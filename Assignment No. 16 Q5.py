@@ -1,0 +1,2 @@
+t1=tuple([eval(i) for i in input("Enter the values separated by space :\n").split()])
+print("All items in the tuple are the same." if t1.count(t1[0])==len(t1) else "All items are not same in the tuple are the same.")
