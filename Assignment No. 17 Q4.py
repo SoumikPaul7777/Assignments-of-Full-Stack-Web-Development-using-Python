@@ -1,0 +1,1 @@
+print('“Python” is present in the set' if "Python" in {"Java", "Python", "Django"} else '“Python” is not present in the set')

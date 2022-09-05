@@ -1,0 +1,1 @@
+print(set(input("Enter those programming languages which are known to u separated by comma :\n").split(",")))
