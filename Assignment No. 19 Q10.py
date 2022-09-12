@@ -1,0 +1,1 @@
+print((lambda :"It is even." if int(input("Enter the number : "))%2==0 else "It is odd.")())
